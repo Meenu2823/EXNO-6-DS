@@ -18,9 +18,11 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Developed By : Meenu.S
 
- Register No. : 212223230124
+  Developed By : Meenu.S
+  
+  Register No. : 212223230124
+ 
 ![image](https://github.com/Meenu2823/EXNO-6-DS/assets/139416219/f971f4f9-502f-4e05-a235-f984de46317a)
 ![image](https://github.com/Meenu2823/EXNO-6-DS/assets/139416219/1108725e-4a4a-4d28-8f25-f20c0181cf5f)
 ![image](https://github.com/Meenu2823/EXNO-6-DS/assets/139416219/35f2ae97-517a-4d5a-820b-d4bdab708e85)
